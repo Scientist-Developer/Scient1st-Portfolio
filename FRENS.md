@@ -4,7 +4,7 @@ Welcome to the official documentation for Frens! Frens is an ERC-20 token design
 
 This documentation will guide you through everything you need to know about Frens, including how to get started, its utility, and how you can contribute to the project.
 
-![-h6o8r4](_res/-h6o8r4.jpg)
+Scient1st-Portfolio/-h6o8r4.jpg
 
 
 ## Key Features
